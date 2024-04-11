@@ -1,0 +1,27 @@
+
+h2 {
+	margin: 0 0 20px 0;
+}
+
+div {
+	width: 40px;
+	height: 40px;
+}
+
+.div1 {
+	background-color: #f88a87;
+	
+}
+.div2 {
+	background-color: #7d89f2;
+	position: relative;
+	left: 30px;
+	bottom: 10px; 
+	z-index: 2;
+}
+.div3 {
+	background-color: #6bef8d;
+	position: relative;
+	bottom: 20px;
+	left: 60px;
+}
